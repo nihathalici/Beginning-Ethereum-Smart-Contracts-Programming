@@ -1,6 +1,9 @@
 # Beginning Ethereum Smart Contracts Programming | Chapter - 1
 
-In this chapter, you have learned about the motivations behind blockchain and the problems that it aims to solve. You also had a chance to know how blocks are added to the blockchain through a process known as mining. In the next chapter, you will learn how to build your own blockchain using Python so that you can see and understand the inner workings of a blockchain.
+* Motivations Behind Blockchain
+* How Blockchain Works
+* Blockchain in More Detail
+
 
 Links and Appendix
 ========================================================
